@@ -38,6 +38,7 @@ The system follows this flow:
 
 <img width="1297" height="556" alt="image" src="https://github.com/user-attachments/assets/a9029521-0813-4c6e-8129-4663b863a236" />
 <img width="1293" height="588" alt="image" src="https://github.com/user-attachments/assets/a5a3e664-9e1d-4f44-b0b9-2ee827f6de71" />
+<img width="2622" height="1212" alt="image" src="https://github.com/user-attachments/assets/557ad872-347e-4349-a9b8-205c7a18cab9" />
 
 ###  Description
 
