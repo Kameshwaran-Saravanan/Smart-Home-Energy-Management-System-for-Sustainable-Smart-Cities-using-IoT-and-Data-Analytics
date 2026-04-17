@@ -36,13 +36,14 @@ The system follows this flow:
 
 ##  Device Control Interface (IoT Monitor)
 
-<img width="1400" alt="iot-control" src="https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_FIRST_IMAGE_LINK" />
+<img width="1297" height="556" alt="image" src="https://github.com/user-attachments/assets/a9029521-0813-4c6e-8129-4663b863a236" />
+<img width="1293" height="588" alt="image" src="https://github.com/user-attachments/assets/a5a3e664-9e1d-4f44-b0b9-2ee827f6de71" />
 
 ###  Description
 
 This interface shows how users can control devices in real-time using a smartphone:
 
-- Turn devices **ON/OFF** (lights, AC, appliances)  
+- Turn devices **ON/OFF** (lights, AC, appliances, garage door, lawn sprinkler)  
 - Adjust **fan speed levels**  
 - Monitor device status instantly (active/inactive)  
 - View all connected IoT devices in one place  
@@ -53,7 +54,8 @@ This enables **remote automation and real-time control**, improving user conveni
 
 ##  IoT Simulation (Cisco Packet Tracer)
 
-<img width="1400" alt="simulation" src="https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_SECOND_IMAGE_LINK" />
+<img width="797" height="531" alt="Screenshot 2026-04-17 at 11 48 49 AM" src="https://github.com/user-attachments/assets/75438d1f-bfd3-40f2-bfd3-d24a34e03fbf" />
+
 
 ###  Description
 
