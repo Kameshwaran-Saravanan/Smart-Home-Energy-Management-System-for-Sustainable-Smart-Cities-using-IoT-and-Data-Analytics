@@ -1,100 +1,92 @@
-#  Smart Home Energy Management System using IoT & Data Analytics
+# Smart Home Energy Management System using IoT and Data Analytics
 
-A smart home solution that uses **IoT + Power BI** to monitor, control, and analyze household energy usage, helping improve efficiency and support **sustainable smart cities**.
+A smart home solution that uses **IoT and Power BI** to monitor, control, and analyze household energy usage, helping improve efficiency and support sustainable smart cities.
 
 ---
 
-##  Project Overview
+## Project Overview
 
-This project aims to solve the problem of **inefficient energy usage in homes** by providing:
+This project aims to solve the problem of inefficient energy usage in homes by providing:
 
 - Real-time monitoring of devices  
 - Remote control using a smartphone  
 - Data-driven insights using Power BI  
 
-The system connects multiple IoT devices through a **home gateway and server**, allowing users to manage energy intelligently.
+The system connects multiple IoT devices through a home gateway and server, allowing users to manage energy intelligently.
 
 ---
 
-##  System Architecture
+## System Architecture
 
 <img width="1540" height="1076" alt="architecture" src="https://github.com/user-attachments/assets/2b489c1a-dbf6-42c5-b4b5-3cd19e19e272" />
 
-###  Description
+### Description
 
 The system follows this flow:
 
-**IoT Devices → Home Gateway → Server → Dashboard → User**
+IoT Devices → Home Gateway → Server → Dashboard → User
 
 - Devices such as lights, fan, AC, sprinkler, and sensors are connected wirelessly  
-- A **home gateway** acts as the central communication hub  
-- The **server** processes device data and stores system status  
-- Data is sent to the **Power BI dashboard** for visualization  
-- Users interact through a **smartphone interface**
+- The home gateway acts as the central communication hub  
+- The server processes device data and stores system status  
+- Data is sent to the Power BI dashboard for visualization  
+- Users interact through a smartphone interface  
 
 ---
 
-##  Device Control Interface (IoT Monitor)
+## Device Control Interface (IoT Monitor)
 
-<img width="1297" height="556" alt="image" src="https://github.com/user-attachments/assets/a9029521-0813-4c6e-8129-4663b863a236" />
-<img width="1293" height="588" alt="image" src="https://github.com/user-attachments/assets/a5a3e664-9e1d-4f44-b0b9-2ee827f6de71" />
-<img width="2622" height="1212" alt="image" src="https://github.com/user-attachments/assets/557ad872-347e-4349-a9b8-205c7a18cab9" />
+<img width="1297" height="556" src="https://github.com/user-attachments/assets/a9029521-0813-4c6e-8129-4663b863a236" />
+<img width="1293" height="588" src="https://github.com/user-attachments/assets/a5a3e664-9e1d-4f44-b0b9-2ee827f6de71" />
+<img width="2622" height="1212" src="https://github.com/user-attachments/assets/557ad872-347e-4349-a9b8-205c7a18cab9" />
 
-###  Description
+### Description
 
 This interface shows how users can control devices in real-time using a smartphone:
 
-- Turn devices **ON/OFF** (lights, AC, appliances, garage door, lawn sprinkler)  
-- Adjust **fan speed levels**  
+- Turn devices ON/OFF (lights, AC, appliances, garage door, lawn sprinkler)  
+- Adjust fan speed levels  
 - Monitor device status instantly (active/inactive)  
 - View all connected IoT devices in one place  
 
-This enables **remote automation and real-time control**, improving user convenience and energy efficiency.
+This enables remote automation and real-time control, improving user convenience and energy efficiency.
 
 ---
 
-##  IoT Simulation (Cisco Packet Tracer)
+## IoT Simulation (Cisco Packet Tracer)
 
-<img width="797" height="531" alt="Screenshot 2026-04-17 at 11 48 49 AM" src="https://github.com/user-attachments/assets/75438d1f-bfd3-40f2-bfd3-d24a34e03fbf" />
+<img width="797" height="531" src="https://github.com/user-attachments/assets/75438d1f-bfd3-40f2-bfd3-d24a34e03fbf" />
 
-
-###  Description
+### Description
 
 This simulation demonstrates the working of the smart home system:
 
-- All IoT devices are connected to the **home gateway**
-- The **server** manages communication between devices
-- Devices include:
-  - Lights  
-  - Fan  
-  - Air Conditioner  
-  - Door & Window sensors  
-  - Lawn sprinkler  
-  - Solar panel  
-  - Webcam  
+- All IoT devices are connected to the home gateway  
+- The server manages communication between devices  
+- Devices include lights, fan, air conditioner, door and window sensors, lawn sprinkler, solar panel, and webcam  
 - Wireless links represent real-time communication between components  
 
-This setup ensures **seamless device interaction and centralized control**.
+This setup ensures seamless device interaction and centralized control.
 
 ---
 
-##  Dashboard & Analytics
+## Dashboard and Analytics
 
-<img width="949" height="719" alt="dashboard" src="https://github.com/user-attachments/assets/f1488084-c741-45e2-83cb-4018427bf8af" />
+<img width="949" height="719" src="https://github.com/user-attachments/assets/f1488084-c741-45e2-83cb-4018427bf8af" />
 
-###  Dashboard Insights
+### Dashboard Insights
 
 The Power BI dashboard provides:
 
--  Efficiency trend over time  
--  Energy status (Surplus / Deficit / Balanced)  
--  KPI cards (Production, Consumption, Net Energy)  
--  Target vs actual efficiency  
--  Interactive slider for dynamic analysis  
+- Efficiency trend over time  
+- Energy status (Surplus, Deficit, Balanced)  
+- KPI cards (Production, Consumption, Net Energy)  
+- Target vs actual efficiency  
+- Interactive slider for dynamic analysis  
 
 ---
 
-##  Features
+## Features
 
 - Control appliances (ON/OFF)  
 - Adjust fan speed  
@@ -106,16 +98,16 @@ The Power BI dashboard provides:
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
-- **Cisco Packet Tracer** – IoT Simulation  
-- **Power BI** – Data Visualization  
-- **IoT Devices** – Lights, Fan, AC, Sensors  
-- **Networking** – Wireless Communication  
+- Cisco Packet Tracer – IoT Simulation  
+- Power BI – Data Visualization  
+- IoT Devices – Lights, Fan, AC, Sensors  
+- Networking – Wireless Communication  
 
 ---
 
-##  Testing
+## Testing
 
 The system was tested using:
 
@@ -127,27 +119,27 @@ All test cases passed successfully, ensuring proper system functionality.
 
 ---
 
-##  Applications
+## Applications
 
-- Smart Homes  
-- Residential Apartments  
-- Smart City Energy Systems  
-- Energy Monitoring Solutions  
+- Smart homes  
+- Residential apartments  
+- Smart city energy systems  
+- Energy monitoring solutions  
 
 ---
 
-##  Sustainability Impact
+## Sustainability Impact
 
 This project supports:
 
-- **SDG 7** – Affordable & Clean Energy  
-- **SDG 11** – Sustainable Cities  
-- **SDG 12** – Responsible Consumption  
-- **SDG 13** – Climate Action  
+- SDG 7 – Affordable and clean energy  
+- SDG 11 – Sustainable cities  
+- SDG 12 – Responsible consumption  
+- SDG 13 – Climate action  
 
 ---
 
-##  Future Scope
+## Future Scope
 
 - AI-based automation  
 - Cloud integration  
@@ -157,13 +149,13 @@ This project supports:
 
 ---
 
-##  Conclusion
+## Conclusion
 
-This project demonstrates how **IoT and data analytics** can be combined to build an efficient energy management system. It reduces wastage, improves awareness, and contributes to sustainable living.
+This project demonstrates how IoT and data analytics can be combined to build an efficient energy management system. It reduces wastage, improves awareness, and contributes to sustainable living.
 
 ---
 
-##  Authors
+## Authors
 
 - Kameshwaran Saravanan  
 - Anushanth L G  
