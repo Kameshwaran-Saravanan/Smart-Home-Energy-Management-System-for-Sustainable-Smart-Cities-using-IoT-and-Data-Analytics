@@ -120,10 +120,8 @@ This project demonstrates how **IoT and data analytics** can be combined to buil
 ##  Authors
 
 - Kameshwaran Saravanan  
-- Anushanth  
+- Anushanth L G
 
 ---
 
-##  Note
 
-Make sure the following image files are in the same folder as `README.md`:
